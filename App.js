@@ -1049,7 +1049,7 @@ const App = () => {
         <footer className="footer">
           <div className="footer-content">
             <div>
-              © 2025 VisionHub • Crafted with ❤️ by Claude
+              © 2025 VisionHub
             </div>
             <div className="footer-links">
               <a href="#">Privacy</a>
